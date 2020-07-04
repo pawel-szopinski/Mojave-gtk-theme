@@ -31,7 +31,6 @@ $cakeisalie: "This stylesheet is generated, DO NOT EDIT";
 }
 
 stage {
-  font-family: $font-family;
   @include font(body-1);
   color: $fg_color;
 }
